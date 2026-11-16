@@ -1,0 +1,16 @@
+# Pastas de build do Maven
+target/
+
+# Pastas de IDEs (configurações do Eclipse e VS Code)
+.settings/
+.classpath
+.project
+.metadata/
+.vscode/
+.idea/
+*.iml
+
+# Pastas de sistema operacional
+Thumbs.db
+Desktop.ini
+.DS_Store
